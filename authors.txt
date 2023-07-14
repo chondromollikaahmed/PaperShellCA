@@ -1,0 +1,34 @@
+# Metadata that will be used to create the paper's various preambles
+# Any empty line, and any line beginning with # is ignored.
+
+# The first non-ignored line of the file must contain the document's title.
+# It can contain any LaTeX code that is permitted in the \title{} command
+
+Edge-Fog-Cloud based Hierarchical Communication Network for Traffic Management System
+
+# What remains of the file is the list of authors and affiliations.
+# Author lines end with (x), where x is the number associated with the
+# author's affiliation. The author's e-mail address and ORCID can follow,
+# separated by a comma. These fields are optional.
+
+Md. Jehad (1) emran.jehadur@gmail.com, 0000-0000-1234-5678
+Md.Jobairul Hassan (2) hasanjobairul@gmail.com 
+Yousuf Hossen (3) yousufhossen5@gmail.com
+Chandramallika Ahmed (4) chondromollikaahmed@gmail.com
+Shamim Akhter (5) shamimakther.cse@aust.edu
+
+
+# Affiliation lines begin with a single digit (indictating the affiliation)
+# Any following line is appended to the affiliation.
+# The first line after the number should be the institution.
+# For ACM publications, please define the remaining elements of
+# the address in settings.inc.php.
+
+1
+Temporal Industries
+Hill Valley, CA 95420
+
+2
+BiffCo inc.
+Hill Valley, CA 95420
+
