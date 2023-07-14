@@ -11,11 +11,11 @@ Edge-Fog-Cloud based Hierarchical Communication Network for Traffic Management S
 # author's affiliation. The author's e-mail address and ORCID can follow,
 # separated by a comma. These fields are optional.
 
-Md. Jehad (1) emran.jehadur@gmail.com, 0000-0000-1234-5678
+Md. Jehad (1) emran.jehadur@gmail.com
 Md.Jobairul Hassan (2) hasanjobairul@gmail.com 
-Yousuf Hossen (3) yousufhossen5@gmail.com
+Yousuf Hossen (3)  yousufhossen5@gmail.com
 Chandramallika Ahmed (4) chondromollikaahmed@gmail.com
-Shamim Akhter (5) shamimakther.cse@aust.edu
+Shamim Akhter (5),shamimakther.cse@aust.edu
 
 
 # Affiliation lines begin with a single digit (indictating the affiliation)
@@ -25,10 +25,8 @@ Shamim Akhter (5) shamimakther.cse@aust.edu
 # the address in settings.inc.php.
 
 1
-Temporal Industries
-Hill Valley, CA 95420
+AISIP Lab, Department of Computer Science and Engineering, Ahsanullah University of Science and Technology
+Bangladesh
 
-2
-BiffCo inc.
-Hill Valley, CA 95420
+
 
